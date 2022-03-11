@@ -1,5 +1,11 @@
 #h2{
-  text-align:center;
+  text-align:right;
+  
+}
+nav.navbar {
+  text-decoration:none;
+  color: rgb(245, 244, 244);
+  background-color: #f03838;
 }
 #rounded-circle{
   width:204px;
@@ -17,14 +23,32 @@
   width: 50%;
 }
 
-.campos {
-  font-family:Verdana,Helvetica;
-  text-align: center;
-  font-size:12pt;
-  width: 1000px;
-  color:#696969;
-  padding: 3px 7px 3px 7px;
-  border:0.8px solid rgb(114, 112, 112);
-  background:#FFF;
-  border-radius: 65px;
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin: 0;
+  margin-bottom: 10px;
+}
+footer {
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: white;
+}
+   
+#img1 {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+#nvBarPrincipal{
+    background-color: #ff0000d3;
+}
+
+#futter1{
+    background-color: #ff0000d3;
+    
 }
