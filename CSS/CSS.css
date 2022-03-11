@@ -7,10 +7,9 @@ nav.navbar {
   color: rgb(245, 244, 244);
   background-color: #f03838;
 }
-#rounded-circle{
-  width:204px;
-  height: 136px;
-  text-align:center;
+#img{
+  width:404px;
+  height: 336px;
 }
 .rounded-circle {
   border-radius: 48% !important;
